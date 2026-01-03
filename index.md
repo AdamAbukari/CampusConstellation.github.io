@@ -89,3 +89,36 @@ title: Campus Constellation
 ---
 
 ## IV. Growth Flywheel
+---
+
+## Join Campus Constellation 🚀
+
+We're building this by students, for students. Sign up to:
+- Get beta access
+- Join the founding team
+- List your student business early
+- Stay updated on launch
+
+<form action="https://formspree.io/f/mdakzjow" method="POST">
+  <label for="name">Name:</label><br>
+  <input type="text" id="name" name="name" required style="width:100%; padding:8px; margin:8px 0;"><br>
+  
+  <label for="email">Email (.edu preferred):</label><br>
+  <input type="email" id="email" name="_replyto" required style="width:100%; padding:8px; margin:8px 0;"><br>
+  
+  <label for="university">Your University:</label><br>
+  <input type="text" id="university" name="university" required style="width:100%; padding:8px; margin:8px 0;"><br>
+  
+  <label for="interest">I'm interested in:</label><br>
+  <select id="interest" name="interest" required style="width:100%; padding:8px; margin:8px 0;">
+    <option value="beta-user">Being a beta user</option>
+    <option value="team">Joining the team</option>
+    <option value="business">Listing my student business</option>
+    <option value="ambassador">Becoming a campus ambassador</option>
+    <option value="other">Other / Just updates</option>
+  </select><br><br>
+  
+  <button type="submit" style="background:#007bff; color:white; padding:10px 20px; border:none; cursor:pointer;">Sign Up</button>
+</form>
+
+*Emails will come directly to your inbox. We'll never spam — this is student-to-student.*
